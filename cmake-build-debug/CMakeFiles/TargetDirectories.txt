@@ -1,0 +1,3 @@
+C:/Users/Fane/Desktop/pu/TreasureHunt2k19/cmake-build-debug/CMakeFiles/TreasureHunt2k19.dir
+C:/Users/Fane/Desktop/pu/TreasureHunt2k19/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fane/Desktop/pu/TreasureHunt2k19/cmake-build-debug/CMakeFiles/rebuild_cache.dir
